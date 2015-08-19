@@ -3,7 +3,7 @@
     UC Riverside
     "ALeaGPU PageRank"
 
-    This file contains code to run PageRank on the GPU
+    Run PageRank on the GPU
 
     Version 1.0
     todo: optimize iterations

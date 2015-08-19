@@ -3,7 +3,8 @@
     UC Riverside
     "ALeaGPU PageRank"
 
-    This file contains code to run PageRank on the CPU and to launch PageRank on either the CPU or GPU (calling PageRank.fs function).
+    Run PageRank on the CPU and to launch PageRank on
+    either the CPU or GPU (calling PageRank.fs function).
 
     Version 1.0
 **)
